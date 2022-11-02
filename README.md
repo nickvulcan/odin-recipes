@@ -1,2 +1,2 @@
 # odin-recipes
-First Odin Project
+This is a project demonstrating my knowledge of the fundamentals of HTML.  This is not intended to demonstrate knowledge of CSS, javascript, or any of the modern tools used for making websites.
