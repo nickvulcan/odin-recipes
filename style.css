@@ -1,0 +1,53 @@
+* {
+    background-color: #000000;
+    color: #aaccff;
+}
+a {
+    text-decoration: none;
+    font-style: normal;
+}
+img {
+    width: 75%;
+    height: auto;
+}
+.title {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 36px;
+    color: #afafaf;
+}
+.description {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 30px;
+    font-weight: 700;
+    color: #afafaf;
+}
+
+#over-table {
+width: 80%;
+display: table;
+}
+
+#over-table-w100 {
+    width: 100%;
+    display: table;
+}
+
+.t33-cell {
+    display: table-cell;
+    width: 33%;
+    text-align: center;
+    vertical-align: middle;
+}
+.t25-cell {
+    display: table-cell;
+    width: 25%;
+    text-align: center;
+}
+.t50-cell {
+    display: table-cell;
+    width: 50%;
+    text-align: center;
+}
+.lalign {
+    text-align: left;
+}
