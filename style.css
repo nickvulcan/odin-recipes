@@ -6,10 +6,6 @@ a {
     text-decoration: none;
     font-style: normal;
 }
-img {
-    width: 75%;
-    height: auto;
-}
 .title {
     font-family: 'Brush Script MT', cursive;
     font-size: 36px;
@@ -20,6 +16,11 @@ img {
     font-size: 30px;
     font-weight: 700;
     color: #afafaf;
+}
+
+.index-img {
+    width: 75%;
+    height: auto;
 }
 
 #over-table {
